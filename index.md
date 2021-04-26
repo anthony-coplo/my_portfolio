@@ -7,7 +7,7 @@ I particularly like to make sense of them and see them impacting reality.
 
 ## [Heart disease UCI analysis](https://github.com/anthony-coplo/Heart-disease-UCI-analysis)
  Perform analysis on the open dataset Heart disease UCI on Kaggle.
- This dataset  [](https://github.com/anthony-coplo/portfolio.github.io/blob/gh-pages/images/493ss_thinkstock_rf_heart_anatomy_illustration.webp)
+ This dataset  (images/493ss_thinkstock_rf_heart_anatomy_illustration.webp)
 
 ## [Calculate the length of stay in hospital using Regression](https://github.com/anthony-coplo/LOS-in-hospital)
 Dataset :  [Link](https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html)
