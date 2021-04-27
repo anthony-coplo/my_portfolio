@@ -19,6 +19,15 @@ I particularly like to make sense of them and see them impacting reality.
 Dataset :  [Link](https://microsoft.github.io/r-server-hospital-length-of-stay/input_data.html)
 The goal of this project is to provide a predicted length of stay (LOS) for each patient at the time of their admission to the hospital. The inputs will include characteristics such as patient diagnoses (heart disease, blood tests, etc.), sex, etc.
 
+Repo contain : 
+- HTML / CSS
+- Jupyter notebook used for aanalysis and model creation
+- The final flask app file
+
+In order to use the app in local environment [you need to download the pre trained model](https://drive.google.com/file/d/1xaQQ1QC-o2w8Z7YNCz1l7cOqbe6mUGNn/view?usp=sharing).
+
+The project has been deployed on heroku, so you can go to : 
+
 
 ## Dashboard with Tableau
 
