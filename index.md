@@ -20,9 +20,8 @@ The goal of this project is to provide a predicted length of stay (LOS) for each
 ## Dashboard with Tableau
 
 
-## Time serie forecasting
+## Time serie forecasting with Facebook prophet librairy 
 
 
-## Classification ...
 
 
