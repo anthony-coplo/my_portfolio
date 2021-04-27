@@ -26,8 +26,6 @@ Repo contain :
 
 In order to use the app in local environment [you need to download the pre trained model](https://drive.google.com/file/d/1xaQQ1QC-o2w8Z7YNCz1l7cOqbe6mUGNn/view?usp=sharing).
 
-The project has been deployed on heroku, so you can go to : 
-
 
 ## Dashboard with Tableau
 
