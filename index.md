@@ -31,7 +31,7 @@ In order to use the app in local environment [you need to download the pre train
 
 
 ## [Time serie forecasting with Facebook prophet librairy](https://github.com/anthony-coplo/prophetforecasting)
-Perform analysis and forecasting of time series with the Facebook prophet librairy.
+Perform analysis and forecasting on time series with the Facebook prophet librairy.
 ![](images/FB-Prophet-logo.png)
 
 
