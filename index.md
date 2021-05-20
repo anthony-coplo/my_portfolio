@@ -34,5 +34,9 @@ Perform analysis and forecasting on time series with the Facebook prophet librai
 
 ## Dashboard with Tableau
 
-## Realtime  with  Spark streaming data
+## Handle Realtime data with Spark streaming 
+
+## Data pipeline with Apache airflow
+
+## Machine Learning Model serving with Azure Databricks and MLFlow
 
